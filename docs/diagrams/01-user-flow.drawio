@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="P2XwOb5n8Go8Gac7LMSp">
-    <mxGraphModel dx="3302" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,12 +117,27 @@
             <mxPoint x="-160" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIP8cvHDGd6pludeQkIG-35" connectable="0" parent="SIP8cvHDGd6pludeQkIG-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelBackgroundColor=#f0a30a;fontColor=#000000;labelBorderColor=#BD7000;" value="Cancelar" vertex="1">
+        <mxCell id="SIP8cvHDGd6pludeQkIG-35" connectable="0" parent="SIP8cvHDGd6pludeQkIG-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelBackgroundColor=#f0a30a;fontColor=#000000;labelBorderColor=#BD7000;" value="Voltar" vertex="1">
           <mxGeometry relative="1" x="-0.1099" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIP8cvHDGd6pludeQkIG-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 153));&quot;&gt;CONTINUAR&lt;/span&gt; OU &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 179, 102));&quot;&gt;CANCELAR&lt;/span&gt;?" vertex="1">
+        <mxCell id="SIP8cvHDGd6pludeQkIG-36" edge="1" parent="1" source="SIP8cvHDGd6pludeQkIG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.284;entryY=0.085;entryDx=0;entryDy=0;" target="lJqhMLJoRh6COFY4Qswn-12">
+          <mxGeometry relative="1" x="-0.5089" as="geometry">
+            <Array as="points">
+              <mxPoint x="-470" y="880" />
+              <mxPoint x="-470" y="370" />
+              <mxPoint x="201" y="370" />
+            </Array>
+            <mxPoint x="-480" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-37" connectable="0" parent="SIP8cvHDGd6pludeQkIG-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelBackgroundColor=#e51400;labelBorderColor=#B20000;fontColor=#ffffff;" value="Cancelar" vertex="1">
+          <mxGeometry relative="1" x="-0.3801" y="-3" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(153, 255, 153));&quot;&gt;CONTINUAR&lt;/span&gt;&amp;nbsp;,&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 179, 102));&quot;&gt;VOLTAR&lt;/span&gt; OU &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;CANCELAR&lt;/span&gt;?" vertex="1">
           <mxGeometry height="80" width="212.5" x="-331.25" y="840" as="geometry" />
         </mxCell>
         <mxCell id="SIP8cvHDGd6pludeQkIG-23" edge="1" parent="1" source="SIP8cvHDGd6pludeQkIG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="SIP8cvHDGd6pludeQkIG-22">
