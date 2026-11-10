@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="P2XwOb5n8Go8Gac7LMSp">
-    <mxGraphModel dx="1187" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lJqhMLJoRh6COFY4Qswn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;" value="&lt;div&gt;-CRIAR BIBLIOTECA&lt;/div&gt;&lt;div&gt;-ENTRAR POR CODIGO&lt;/div&gt;&lt;div&gt;-BIBLIOTECA RECENTE&lt;/div&gt;" vertex="1">
+        <mxCell id="SIP8cvHDGd6pludeQkIG-3" edge="1" parent="1" source="lJqhMLJoRh6COFY4Qswn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;strokeColor=light-dark(#000000,#FFCCCC);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2.2737367544323206e-13" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-4" connectable="0" parent="SIP8cvHDGd6pludeQkIG-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontColor=light-dark(transparent,#FFCCCC);" value="Criar Biblioteca" vertex="1">
+          <mxGeometry relative="1" x="0.1888" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJqhMLJoRh6COFY4Qswn-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(transparent, rgb(255, 204, 204));&quot;&gt;-CRIAR BIBLIOTECA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-ENTRAR POR CODIGO&lt;/div&gt;&lt;div&gt;-BIBLIOTECA RECENTE&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="150" x="165" y="390" as="geometry" />
         </mxCell>
         <mxCell id="lJqhMLJoRh6COFY4Qswn-13" edge="1" parent="1" source="lJqhMLJoRh6COFY4Qswn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
@@ -46,6 +56,39 @@
             <mxPoint x="314" y="315" as="sourcePoint" />
             <mxPoint x="240" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-6" edge="1" parent="1" source="SIP8cvHDGd6pludeQkIG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SIP8cvHDGd6pludeQkIG-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-75" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="SELECIONAR PASTA" vertex="1">
+          <mxGeometry height="90" width="150" x="-150" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-12" edge="1" parent="1" source="SIP8cvHDGd6pludeQkIG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.484;entryY=-0.004;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="SIP8cvHDGd6pludeQkIG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-13" connectable="0" parent="SIP8cvHDGd6pludeQkIG-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelBackgroundColor=#a20025;fontColor=#ffffff;labelBorderColor=#6F0000;" value="Sim" vertex="1">
+          <mxGeometry relative="1" x="-0.4079" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-15" edge="1" parent="1" source="SIP8cvHDGd6pludeQkIG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="SIP8cvHDGd6pludeQkIG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-18" connectable="0" parent="SIP8cvHDGd6pludeQkIG-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelBackgroundColor=#d80073;fontColor=#ffffff;labelBorderColor=#A50040;" value="Não" vertex="1">
+          <mxGeometry relative="1" x="-0.2743" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-7" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="ENCONTROU ARQUIVOS COMPATIVEIS?" vertex="1">
+          <mxGeometry height="80" width="212.5" x="-181.25" y="544" as="geometry" />
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="UMA PREVIA DOS ARQUIVOS E SUBPASTAS" vertex="1">
+          <mxGeometry height="90" width="150" x="-300" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="SIP8cvHDGd6pludeQkIG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" value="MOSTRAR QUE NÃO EXISTE ARQUIVOS COMPATIVEIS NA PASTA" vertex="1">
+          <mxGeometry height="90" width="150" x="15" y="680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
