@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="8bsJFXe_ieOTCOmubbyk">
-    <mxGraphModel dx="2788" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4237" dy="1999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJN4WX4P4dOjZYocV2ZF-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(transparent, rgb(255, 204, 204));&quot;&gt;-CRIAR BIBLIOTECA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-ENTRAR POR CODIGO&lt;/div&gt;&lt;div&gt;-BIBLIOTECA RECENTE&lt;/div&gt;" vertex="1">
+        <mxCell id="wu8a2XtepkRjSxCozRnr-9" edge="1" parent="1" source="dJN4WX4P4dOjZYocV2ZF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#ffff88;strokeColor=light-dark(#36393D,#FFFF66);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-10" connectable="0" parent="wu8a2XtepkRjSxCozRnr-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;strokeColor=light-dark(#36393D,#FFFF66);fontColor=light-dark(#000000,#FFFF99);" value="Biblioteca recente" vertex="1">
+          <mxGeometry relative="1" x="-0.256" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJN4WX4P4dOjZYocV2ZF-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;" value="&lt;div&gt;&lt;span style=&quot;color: light-dark(transparent, rgb(255, 204, 204));&quot;&gt;-CRIAR BIBLIOTECA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-ENTRAR POR CODIGO&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 51));&quot;&gt;-BIBLIOTECA RECENTE&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="150" x="245" y="470" as="geometry" />
         </mxCell>
         <mxCell id="dJN4WX4P4dOjZYocV2ZF-13" edge="1" parent="1" source="dJN4WX4P4dOjZYocV2ZF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
@@ -205,6 +215,11 @@
         <mxCell id="dJN4WX4P4dOjZYocV2ZF-46" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" value="TODOS OS ARQUIVOS FORAM ENVIADOS?" vertex="1">
           <mxGeometry height="90" width="240" x="70" y="1480" as="geometry" />
         </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-4" edge="1" parent="1" source="dJN4WX4P4dOjZYocV2ZF-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" x="-0.861" as="geometry">
+            <mxPoint x="480" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dJN4WX4P4dOjZYocV2ZF-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="FINALIZAR CRIAÇÃO DE BIBLIOTECA" vertex="1">
           <mxGeometry height="90" width="150" x="304" y="1660" as="geometry" />
         </mxCell>
@@ -244,16 +259,13 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJN4WX4P4dOjZYocV2ZF-54" edge="1" parent="1" source="dJN4WX4P4dOjZYocV2ZF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.003;entryY=0.591;entryDx=0;entryDy=0;" target="dJN4WX4P4dOjZYocV2ZF-15">
-          <mxGeometry relative="1" x="-0.1842" as="geometry">
-            <Array as="points">
-              <mxPoint x="-552.5" y="523.2" />
-            </Array>
-            <mxPoint x="-552.5" y="540" as="targetPoint" />
+        <mxCell id="dJN4WX4P4dOjZYocV2ZF-54" edge="1" parent="1" source="dJN4WX4P4dOjZYocV2ZF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.495;entryY=1.036;entryDx=0;entryDy=0;" target="vlX4X641CFXwmCuLbR2m-1">
+          <mxGeometry relative="1" x="0.445" as="geometry">
+            <mxPoint x="-540" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dJN4WX4P4dOjZYocV2ZF-55" connectable="0" parent="dJN4WX4P4dOjZYocV2ZF-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontSize,fontStyle,textOpacity,labelBorderWidth,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;labelPadding=0 4;labelBackgroundColor=#008a00;fontColor=#ffffff;labelBorderColor=#005700;" value="Sim" vertex="1">
-          <mxGeometry relative="1" x="-0.8792" y="1" as="geometry">
+          <mxGeometry relative="1" x="-0.1774" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -268,8 +280,36 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" x="-0.3837" as="geometry">
+            <Array as="points">
+              <mxPoint x="-557.5" y="520" />
+            </Array>
+            <mxPoint x="-557.5" y="1050" as="sourcePoint" />
+            <mxPoint x="-75" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vlX4X641CFXwmCuLbR2m-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" value="&lt;div&gt;&lt;b&gt;&lt;code&gt;DESCARTAR IMPORTAÇÃO E REMOVER ARQUIVOS ENVIADOS&lt;/code&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="159.99" x="-632.49" y="1350" as="geometry" />
+          <mxGeometry height="90" width="159.99" x="-632.5" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-6" edge="1" parent="1" source="wu8a2XtepkRjSxCozRnr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.016;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;" target="dJN4WX4P4dOjZYocV2ZF-7">
+          <mxGeometry relative="1" x="-0.144" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="1220" />
+              <mxPoint x="740" y="1220" />
+              <mxPoint x="740" y="400" />
+              <mxPoint x="395" y="400" />
+              <mxPoint x="395" y="381.7" />
+            </Array>
+            <mxPoint x="475" y="1300" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=38;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" value="GERAR UM CODIGO DEC CONVITE PARA ESSA BIBLIOTECA EX:&lt;br&gt;LE18-0414" vertex="1">
+          <mxGeometry height="90" width="150" x="400" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="wu8a2XtepkRjSxCozRnr-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#008A00,#FFFF99);fontColor=#ffffff;strokeColor=#005700;" value="APARECER BIBLIOTECAS RECENTES E SEUS CODIGOS DE CONVITE" vertex="1">
+          <mxGeometry height="90" width="159.99" x="520" y="485" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
